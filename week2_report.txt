@@ -1,0 +1,8 @@
+EcoTrack - Week 2 Report
+=========================
+CSV file: Carbon Emission.csv
+Detected target column: CarbonEmission
+Rows used: 10000
+Features used: 65
+MSE: 89538.2681
+R2: 0.9139
